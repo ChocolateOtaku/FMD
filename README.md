@@ -4,13 +4,13 @@
 
 ## Download
 
-[![Latest release](https://img.shields.io/github/release/fmd-project-team/FMD.svg)](https://github.com/fmd-project-team/FMD/releases/latest)
-[![Download latest release (Win32)](https://img.shields.io/github/downloads/fmd-project-team/FMD/latest/fmd_0.9.166.1.7z.svg?label=Win32)](https://github.com/fmd-project-team/FMD/releases/download/0.9.166.1/fmd_0.9.166.1.7z)
-[![Download latest release (Win64)](https://img.shields.io/github/downloads/fmd-project-team/FMD/latest/fmd_0.9.166.1_Win64.7z.svg?label=Win64)](https://github.com/fmd-project-team/FMD/releases/download/0.9.166.1/fmd_0.9.166.1_Win64.7z)
+[![Latest release](https://img.shields.io/github/release/ChocolateOtaku/FMD2.svg)](https://github.com/fmd-project-team/FMD/releases/latest)
+[![Download latest release (Win32)](https://img.shields.io/github/downloads/ChocolateOtaku/FMD/latest/fmd_2.0.166.1.7z.svg?label=Win32)](https://github.com/ChocolateOtaku/FMD2/releases/download/2.0.166.1/fmd_2.0.166.1.7z)
+[![Download latest release (Win64)](https://img.shields.io/github/downloads/ChocolateOtaku/FMD/latest/fmd_2.0.166.1_Win64.7z.svg?label=Win64)](https://github.com/ChocolateOtaku/FMD2/releases/download/2.0.166.1/fmd_2.0.166.1_Win64.7z)
 
 ## About FMD
 
-This is an active fork of the Free Manga Downloader which is a free open source application written in Object Pascal for managing and downloading manga from various websites. The source code was released under the GPLv2 license.
+This is the next major version v2 for FMD. It will receive all updates and patches from the origin (upstream) repositories as well as some new features exclusive only for this release. These features will most likely be maintained in a separate private repository to prevent manga websites from analysing code and blocking FMD. Updates will follow as the current source code needs to be learned (Pascal) to start development.
 
 ## Build instructions
 
