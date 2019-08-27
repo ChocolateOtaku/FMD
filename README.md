@@ -4,9 +4,9 @@
 
 ## Download
 
-[![Latest release](https://img.shields.io/github/release/ChocolateOtaku/FMD2.svg)](https://github.com/ChocolateOtaku/FMD2/releases/latest)
-[![Download latest release (Win32)](https://img.shields.io/github/downloads/ChocolateOtaku/FMD/latest/fmd_2.0.166.1.7z.svg?label=Win32)](https://github.com/ChocolateOtaku/FMD2/releases/download/2.0.166.1/fmd_2.0.166.1.7z)
-[![Download latest release (Win64)](https://img.shields.io/github/downloads/ChocolateOtaku/FMD/latest/fmd_2.0.166.1_Win64.7z.svg?label=Win64)](https://github.com/ChocolateOtaku/FMD2/releases/download/2.0.166.1/fmd_2.0.166.1_Win64.7z)
+[![Latest release](https://img.shields.io/github/release/FreeMangaDownloader/FMD2.svg)](https://github.com/FreeMangaDownloader/FMD2/releases/latest)
+[![Download latest release (Win32)](https://img.shields.io/github/downloads/FreeMangaDownloader/FMD/latest/fmd_2.0.166.1.7z.svg?label=Win32)](https://github.com/FreeMangaDownloader/FMD2/releases/download/2.0.166.1/fmd_2.0.166.1.7z)
+[![Download latest release (Win64)](https://img.shields.io/github/downloads/FreeMangaDownloader/FMD/latest/fmd_2.0.166.1_Win64.7z.svg?label=Win64)](https://github.com/FreeMangaDownloader/FMD2/releases/download/2.0.166.1/fmd_2.0.166.1_Win64.7z)
 
 ## About FMD
 
